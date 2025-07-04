@@ -3,5 +3,13 @@
     "@gsap/react": "^2.1.2",
     "gsap": "^3.13.0",
     "remixicon": "^4.6.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.0.2"
   }
 }
